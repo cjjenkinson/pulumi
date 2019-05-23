@@ -1,5 +1,8 @@
 ## 0.17.14 (Unreleased)
 
+- Pulumi now tolerates changes in default providers in certain cases, which fixes an issue where users would see
+  unexpected replaces when upgrading a Pulumi package.
+
 ### Improvements
 
 ## 0.17.13 (Released May 21, 2019)
