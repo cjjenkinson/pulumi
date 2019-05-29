@@ -2,6 +2,8 @@
 
 ### Improvements
 
+- Add CI system detection for Bitbucket Pipelines.
+
 ## 0.17.14 (Released May 28, 2019)
 
 ### Improvements
